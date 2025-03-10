@@ -11,6 +11,8 @@ Estos valores se leen por separado como OPERANDO_1, OPERANDO_2 y selector.
 
 Función de RB4:
 
+CONF_PUERTOS(void); sirve para blaaalb
+
 El pin RB4 funciona como un botón que actúa como "Enter" para confirmar y almacenar el valor ingresado. Cada vez que se presiona, el código lo detecta con la función FUNCION_ENTER, garantizando la estabilidad del ingreso con retardos (__delay_ms).
 
 Selector de Operación:
