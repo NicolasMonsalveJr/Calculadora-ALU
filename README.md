@@ -1,7 +1,7 @@
 Descripcion de funcionamiento:
 La idea central es implementar una calculadora binaria, donde los valores de los operandos y el selector se manejan a través de los pines del puerto PORTB conectados a un interruptor físico (switch).
 
-
+PinOut: ![PinOut](PinOut.PNG)
 
 Entradas Binarias:
 
