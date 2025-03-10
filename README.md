@@ -5,7 +5,7 @@ PinOut: ![PinOut](PinOut.PNG)
 Montaje: ![Montaje](Montaje.jpg)
 Entradas Binarias:
 
-Los pines RB0, RB1, RB2 y RB3 se usan para ingresar números binarios de 4 bits, tanto para los operandos como para la operación a realizar.
+"Los pines RB0, RB1, RB2 y RB3 se usan para ingresar números binarios de 4 bits, tanto para los operandos como para la operación a realizar.
 
 Estos valores se leen por separado como OPERANDO_1, OPERANDO_2 y selector.
 
@@ -23,4 +23,4 @@ Los valores de los operandos y el resultado de la operación se muestran a trav�
 
 Ciclo Principal:
 
-Después de configurar los puertos y hacer una verificación visual (indicador de vida con LEDs), el programa ejecuta la rutina (RUTINA), que orquesta todo: lectura de datos, selección de operación y despliegue del resultado.
+Después de configurar los puertos y hacer una verificación visual (indicador de vida con LEDs), el programa ejecuta la rutina (RUTINA), que orquesta todo: lectura de datos, selección de operación y despliegue del resultado."
