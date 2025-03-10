@@ -2,7 +2,7 @@ Descripcion de funcionamiento:
 La idea central es implementar una calculadora binaria, donde los valores de los operandos y el selector se manejan a través de los pines del puerto PORTB conectados a un interruptor físico (switch).
 
 PinOut: ![PinOut](PinOut.PNG)
-Montaje: ![Montaje](Montaje.JPG)
+Montaje: ![Montaje](Montaje.jpg)
 Entradas Binarias:
 
 Los pines RB0, RB1, RB2 y RB3 se usan para ingresar números binarios de 4 bits, tanto para los operandos como para la operación a realizar.
